@@ -8,3 +8,5 @@ Este repositorio contiene los siguientes 'do', actualizados a fecha de Octubre d
 - **Vacunas_totales.do:** Sintaxis para calcular el número de vacunas prescritas y administradas.
 
 - **Viajeros_totales.do:** Sintaxis para calcular el número de viajeros, las vacunas que se les administraron y las dosis de antipalúdicos que se recetaron.
+
+- **Personal_HUHV_totales.do:** Sintaxis para calcular el número de trabajadores del HUVH y las vacunas que se les prescribieron y administraron.
